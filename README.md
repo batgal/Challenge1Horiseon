@@ -1,2 +1,2 @@
-# Chellenge1Horiseon
+# Challenge1Horiseon
 UA Bootcamp Challenge 1
